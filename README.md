@@ -1,9 +1,9 @@
 # Logee-FE-BE
 This is the combination for FE+BE Logee team 91
 
-Here's the repository link for [BE] (https://github.com/DysnomiaBorealis/logee_regist_be)
+Here's the repository link for [BE](https://github.com/DysnomiaBorealis/logee_regist_be)
 
-Here's the repository link for [FE] (https://github.com/DysnomiaBorealis/FELogee91)
+Here's the repository link for [FE](https://github.com/DysnomiaBorealis/FELogee91)
 
 Here are some screenshot for FE
 <img width="948" alt="frontpage" src="https://github.com/user-attachments/assets/19be4922-6a22-423e-bc85-b06bc3851d4d">
